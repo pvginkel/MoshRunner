@@ -11,4 +11,4 @@ and extract it to your local drive. The Mosh.exe application is used to
 start Mosh.
 
 The user name and host name can also be provided on the command line. To use this,
-add the user and host name in the format <user>@<host>.
+add the user and host name in the format \<user\>@\<host\>.
